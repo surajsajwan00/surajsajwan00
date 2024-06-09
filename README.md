@@ -8,15 +8,15 @@
 <img align="right" alt="Coding" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 - 🌱 I’m currently learning **Spring Boot, Transformers, NLTK**
 
-- 👯 I’m looking to collaborate on **NLP projects**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine learning projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://surajsajwanportfolio.netlify.app/)
 
-- 💬 Ask me about **Python, Java, NLP, MongoDB, Firebase, MySQL, React, Flutter**
+- 💬 Ask me about **Python, Java, C/C++, MySQL, MongoDB, Firebase, React, Flutter, NLP**
 
 - 📫 How to reach me **kakasuraj22@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/19Ya3ynmcfmzjVwXj8WAm07xu502nrUKW/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1OjovOlz7Ai-2Q9kt5YFHS3Fr1xhykgu0/view?usp=sharing)
 
 - ⚡ Fun fact **Also, I teach coding! 🎓 Feel free to ask me about coding concepts or for guidance on your coding journey!**
 
