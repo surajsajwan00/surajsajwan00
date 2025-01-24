@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kakasuraj22@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1OjovOlz7Ai-2Q9kt5YFHS3Fr1xhykgu0/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume]([https://drive.google.com/file/d/1OjovOlz7Ai-2Q9kt5YFHS3Fr1xhykgu0/view?usp=sharing](https://drive.google.com/file/d/1rWQzNXHYdoCHZytlbH5L3IFs-7kv0Xxc/view?usp=sharing))
 
 - ⚡ Fun fact **Also, I teach coding! 🎓 Feel free to ask me about coding concepts or for guidance on your coding journey!**
 
